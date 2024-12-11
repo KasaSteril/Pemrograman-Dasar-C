@@ -1,5 +1,0 @@
-ID produk: 123
-Nama produk: Syahrial
-Kategori produk: Manusia
-Harga produk: 1
-Stok produk: 1
